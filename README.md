@@ -1,4 +1,4 @@
-## Antogeo 
+## $\color{green}{\textsf{Antogeo}}$
 
 **Data Analysis · Neuroimaging · Machine Learning**
 
@@ -12,7 +12,7 @@ Enjoying open science and sharing knowledge through teaching and supervising, a 
 
 Most of my time goes to the technical and sometimes unpopular sides of neuroimaging: getting different brain scans into a shape where they can actually be compared (preprocessing, normalization, quality control). Then comes the more visible layer: brain-age estimation, benchmarking pipelines end to end, and figuring out which combinations of features and models still behave when the datasets get bigger and messier. All of it runs from local workstations to HPC and high-throughput clusters. -->
 
-### Projects
+### $\color{green}{\textsf{Projects}}$
 
 <table>
   <tr>
@@ -22,9 +22,9 @@ Most of my time goes to the technical and sometimes unpopular sides of neuroimag
       <sub>Shell · <a href="https://doi.org/10.1016/j.neuroimage.2023.119947">NeuroImage 2023</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h4>⚙️ <a href="https://github.com/juaml/julearn">julearn</a></h4>
-      Forschungszentrum Jülich machine learning library, used for brain-age and ML workflows.<br>
-      <sub>Python · contributor</sub>
+      <h4>🔬 <a href="https://github.com/antogeo/Pet_classpaper">Pet_classpaper</a></h4>
+      Classification pipeline for PET: preprocessing, SUV, atlas-based features, classifiers, and validation on external data.<br>
+      <sub>Python</sub>
     </td>
     <td width="33%" valign="top">
       <h4>🩻 <a href="https://github.com/antogeo/brain_processing_tools">brain_processing_tools</a></h4>
@@ -39,9 +39,9 @@ Most of my time goes to the technical and sometimes unpopular sides of neuroimag
       <sub>VHDL · MSc thesis, University of Patras</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>📊 <a href="https://github.com/nilearn/nilearn">nilearn</a></h4>
-      Machine learning for neuroimaging in Python.<br>
-      <sub>Python · contributor</sub>
+      <h4>🙂 <a href="https://github.com/antogeo/face_registration">face_registration</a></h4>
+      Learning project for face detection, alignment, and blending.<br>
+      <sub>Python · in progress</sub>
     </td>
     <td width="33%" valign="top">
       <h4>🌐 <a href="https://github.com/antogeo/antogeo.gr">antogeo.gr</a></h4>
@@ -51,13 +51,13 @@ Most of my time goes to the technical and sometimes unpopular sides of neuroimag
   </tr>
 </table>
 
-### Tech stack
+### $\color{green}{\textsf{Tech stack}}$
 
 **Languages:** Python · MATLAB · Shell · C++ · VHDL · Greek · English · some French · German (trying and failing)<br>
 **ML & neuroimaging:** scikit-learn · PyTorch · nilearn · ANTs · ITK · CAT12/SPM · FSL<br>
 **Tools:** Singularity · Git · Linux · HPC (Slurm) · HTC (HTCondor) · screwdrivers · drills · chainsaw · multimeter · soldering station
 
-### Selected publications
+### $\color{green}{\textsf{Selected publications}}$
 
 - **Region-wise stacking ensembles for estimating brain-age using structural MRI.** *Computers in Biology and Medicine*, 2025. [doi](https://doi.org/10.1016/j.compbiomed.2025.111182)
 - **A systematic comparison of VBM pipelines and their application to age prediction.** *NeuroImage*, 2023. [doi](https://doi.org/10.1016/j.neuroimage.2023.119947)
@@ -66,6 +66,6 @@ Most of my time goes to the technical and sometimes unpopular sides of neuroimag
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=w8X5oagAAAAJ&view_op=list_works&sortby=pubdate).
 
-### More info
+### $\color{green}{\textsf{More info}}$
 
 🌐 [antogeo.gr](https://www.antogeo.gr) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=w8X5oagAAAAJ)
