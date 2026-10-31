@@ -27,9 +27,9 @@ Most of my time goes to the technical and sometimes unpopular sides of neuroimag
       <sub>Python</sub>
     </td>
     <td width="33%" valign="top">
-      <h4>🩻 <a href="https://github.com/antogeo/brain_processing_tools">brain_processing_tools</a></h4>
-      Tools for extracting different parts of the head and brain from MRI.<br>
-      <sub>Python</sub>
+      <h4>🧩 <a href="https://github.com/juaml/stacking_ensemble_paper">stacking_ensemble_paper</a></h4>
+      Region-wise stacking ensembles for brain-age estimation from structural MRI.<br>
+      <sub>R · Python · <a href="https://doi.org/10.1016/j.compbiomed.2025.111182">Comput. Biol. Med. 2025</a></sub>
     </td>
   </tr>
   <tr>
